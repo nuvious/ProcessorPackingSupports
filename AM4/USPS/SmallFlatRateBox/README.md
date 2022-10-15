@@ -5,6 +5,8 @@ transport and add structural support to the box itself.
 
 ![](img/OSMALLFRBI.jpg)
 
+![](img/AM4_USPS_FLAT_RATE_SMALL_BOX_OSMALLFRBI.PNG)
+
 ### Requirements
 
 - 1 USPS Small Flat Rate Box Marketed Under the SKU
@@ -18,7 +20,9 @@ paid).
 
 ### Min Recommended Print Settings
 
-- Shells: 2-3
+- Shells: 2.4mm / (2 * Nozzle Width)
+  - Ex: 2.4mm/(2*.6mm) -> 2 Shells
+  - Ensures outer supports are solid plastic with infill only in the center structure
 - Layer Height: 50% Nozzle Size (.6mm Nozzle -> .3 mm Layer Height)
 - Infill: 15% Gyroidal (or alternative infill of choice)
 
