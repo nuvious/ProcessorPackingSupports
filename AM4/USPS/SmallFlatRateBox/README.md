@@ -9,7 +9,7 @@ transport and add structural support to the box itself.
 
 ## Demo Video
 
-[<img src="https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8FTx2BTdOqY "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8FTx2BTdOqY "Open-Source 3D Printable Ryzen AM4 CPU Packing Brace for USPS Flat Rate Small Box")
 
 ## Requirements
 
