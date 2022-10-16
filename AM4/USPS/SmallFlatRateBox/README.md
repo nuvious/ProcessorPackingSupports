@@ -9,9 +9,7 @@ transport and add structural support to the box itself.
 
 ## Demo Video
 
-[![Ryzen AM4 CPU Holder for USPS Flat Rate Box]          // Title
-(https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg)] // Thumbnail
-(https://youtu.be/8FTx2BTdOqY "Ryzen AM4 CPU Holder for USPS Flat Rate Box")    // Video Link
+[<img src="https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8FTx2BTdOqY "Now in Android: 55")
 
 ## Requirements
 
