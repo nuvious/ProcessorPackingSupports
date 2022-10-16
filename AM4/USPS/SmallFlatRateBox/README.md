@@ -9,7 +9,7 @@ transport and add structural support to the box itself.
 
 ## Demo Video
 
-[<img src="https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8FTx2BTdOqY "Now in Android: 55")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FTx2BTdOqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Requirements
 
