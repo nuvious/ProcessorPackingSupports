@@ -2,9 +2,10 @@
 
 A collection of 3d printable packing supports for processors.
 
-## Processors by Socket
+## Processors by Vendor/Socket
 
-- [AM4](AM4/README.md)
+- AMD
+  - [AM4](AM4/README.md)
 
 ## Contribution Guide
 

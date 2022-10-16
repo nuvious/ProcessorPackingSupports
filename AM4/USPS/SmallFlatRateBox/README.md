@@ -7,7 +7,13 @@ transport and add structural support to the box itself.
 
 ![](img/AM4_USPS_FLAT_RATE_SMALL_BOX_OSMALLFRBI.PNG)
 
-### Requirements
+## Demo Video
+
+[![Ryzen AM4 CPU Holder for USPS Flat Rate Box]          // Title
+(https://i.ytimg.com/vi/8FTx2BTdOqY/maxresdefault.jpg)] // Thumbnail
+(https://youtu.be/8FTx2BTdOqY "Ryzen AM4 CPU Holder for USPS Flat Rate Box")    // Video Link
+
+## Requirements
 
 - 1 USPS Small Flat Rate Box Marketed Under the SKU
 [OSMALLFRBI](https://store.usps.com/store/product/shipping-supplies/priority-mail-small-flat-rate-box-P_SMALL_FRB) or
