@@ -6,4 +6,4 @@ generic holders.
 - USPS
   - [Small Flat Rate Box](USPS/SmallFlatRateBox/README.md)
 
-![](USPS/SmallFlatRateBox/img/OSMALLFRBI.jpg)
+[![](USPS/SmallFlatRateBox/img/OSMALLFRBI.jpg)](USPS/SmallFlatRateBox/README.md)
